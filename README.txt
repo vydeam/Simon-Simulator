@@ -1,0 +1,2 @@
+This program is for the Arduino Uno R3 that is connected to electronics on a breadboard to simulate the Simon handheld game.
+There are multiple game versions besides the original to play and the LCD screen displays, but is not limited to high scores and turns.
