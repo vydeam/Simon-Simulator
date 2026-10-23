@@ -1,0 +1,1 @@
+This Arduino IDE code contains the software necessary to run a Simon Game for the hardware. The hardware consists of 4 buttons for each color and an LCD screen to display game types, rounds, high score, computer/human turn, and more.
